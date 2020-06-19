@@ -1,5 +1,5 @@
 # ShoppingList
-Amazon Intern Program </br>
+Amazon Intern Program </br></br>
 References
 * https://codelabs.developers.google.com/codelabs/firestore-android
 * https://medium.com/@abeythilakeudara3/firebase-text-recognition-with-android-e46814c49dfe
